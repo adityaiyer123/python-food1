@@ -1,0 +1,4 @@
+User_ID,age,weight,height,BMI,condition,activity_level,protein,carbs,sugar,sodium,total_fat,cholesterol,dietary_fiber
+1,25,70,175,22.9,Healthy,Active,70,250,40,2300,60,200,30
+2,45,85,165,31.2,Diabetes,Moderate,60,200,30,1800,50,180,28
+3,35,78,170,27,Heart Disease,Sedentary,55,180,25,1500,45,150,25
